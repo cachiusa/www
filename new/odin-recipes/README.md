@@ -1,0 +1,1 @@
+This is my practice on creating a recipe site in The Odin Project course
